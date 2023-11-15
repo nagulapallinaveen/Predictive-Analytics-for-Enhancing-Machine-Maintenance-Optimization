@@ -14,12 +14,10 @@ The project addresses the critical issue in manufacturing: minimizing unplanned 
 ## Problem Statement
 Traditional maintenance practices in manufacturing, often inadequate, lead to excessive downtime and costs. Predictive maintenance (PdM), utilizing data analytics and machine learning, aims to preemptively address equipment failures, thus enhancing efficiency and profitability.
 
-## Approach
+## Dataset Overview
 - **Data Source:** UCI Machine Learning Repository ([AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)).
 - **Methodology:** Utilize historical data, real-time monitoring, and machine learning algorithms to predict potential failures.
 - **Objective:** To shift from reactive to proactive maintenance, identifying failure patterns and anomalies through data analysis.
-
-## Dataset Overview
 - **Features:** 14 features, including machine operational parameters like temperature, speed, torque, and tool wear.
 - **Targets:** Indicators of machine failure (binary) and failure types.
 
